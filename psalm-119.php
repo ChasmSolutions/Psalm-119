@@ -1,15 +1,21 @@
 <?php
+
 /*
-Plugin Name: Psalm 119
-Plugin URI: http://wordpress.org/plugins/psalm-119/
-Description: Add an encouraging line from Psalm 119 to the admin section of your Wordpress. Based on Matt Mullenweg's Hello Dolly plugin.
-Author: Chasm Solutions
-Version: 1.0
-Author URI: http://chasm.solutions
-
-Many thanks to Matt Mullenweg's famous 'Hello Dolly' plugin that starts with every Wordpress install. 'Hello Dolly' is great, but for 
-those of us who love Jesus and the Bible, Psalms 119 is incomparably more inspiring.
-
+ * Plugin Name: Psalm 119
+ * Plugin URI: https://github.com/ChasmSolutions/psalm-119
+ * Author: Chasm Solutions
+ * Author URI: https://chasm.solutions
+ * Description: Add an encouraging line from Psalm 119 to the admin section of your Wordpress. Based on Matt Mullenweg's Hello Dolly plugin.
+ * Version: 1.0 
+ * Requires at least: 4.3.0
+ * Tested up to: 4.7.0
+ *
+ * Copyright: 2017 Chasm Solutions
+ * License:   GPL-3.0
+ *
+ * Many thanks to Matt Mullenweg's famous 'Hello Dolly' plugin that starts with every Wordpress install. 'Hello Dolly' is great, but for 
+ * those of us who love Jesus and the Bible, Psalms 119 is incomparably more inspiring.
+ *
 */
 
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
